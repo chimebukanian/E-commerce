@@ -1,2 +1,2 @@
 # E-commerce
-an ecommerce website using django
+an ecommerce website using django. (in-progress)
